@@ -19,7 +19,7 @@ public class EaglercraftVersion {
 	
 	public static final String projectOriginName = "EaglercraftX";
 	public static final String projectOriginAuthor = "lax1dude";
-	public static final String projectOriginRevision = "1.8";
+	public static final String projectOriginRevision = "1.14";
 	public static final String projectOriginVersion = "u53";
 	
 	public static final String projectOriginURL = "https://gitlab.com/lax1dude/eaglercraftx-1.8"; // rest in peace
@@ -51,7 +51,7 @@ public class EaglercraftVersion {
 	
 	// Miscellaneous variables:
 
-	public static final String mainMenuStringA = "Minecraft 1.8.8";
+	public static final String mainMenuStringA = "Minecraft 1.14.4";
 	public static final String mainMenuStringB = projectOriginName + " " + projectOriginRevision + "-"
 			+ projectOriginVersion + " ultimate [" + EagRuntime.getPlatformType().getName() + "]";
 	public static final String mainMenuStringC = "";
@@ -75,3 +75,4 @@ public class EaglercraftVersion {
 	public static final String localStorageNamespace = "_eaglercraftX";
 
 }
+
