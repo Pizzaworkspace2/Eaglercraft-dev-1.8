@@ -1029,6 +1029,7 @@ public class Item {
 		registerItem(430, (String) "acacia_door", (new ItemDoor(Blocks.acacia_door)).setUnlocalizedName("doorAcacia"));
 		registerItem(431, (String) "dark_oak_door",
 				(new ItemDoor(Blocks.dark_oak_door)).setUnlocalizedName("doorDarkOak"));
+		registerItem(432, (String) "sweet_berries", (new ItemFood(4, 0.3F, false)).setUnlocalizedName("sweet_berries"));
 		registerItem(2256, (String) "record_13", (new ItemRecord("13")).setUnlocalizedName("record"));
 		registerItem(2257, (String) "record_cat", (new ItemRecord("cat")).setUnlocalizedName("record"));
 		registerItem(2258, (String) "record_blocks", (new ItemRecord("blocks")).setUnlocalizedName("record"));
@@ -1125,4 +1126,5 @@ public class Item {
 		 */
 		return getItemUseAction(itemStack) != EnumAction.NONE;
 	}
+
 }
