@@ -1028,6 +1028,7 @@ public class RenderItem implements IResourceManagerReloadListener {
 		this.registerItem(Items.cauldron, "cauldron");
 		this.registerItem(Items.ender_eye, "ender_eye");
 		this.registerItem(Items.speckled_melon, "speckled_melon");
+		this.registerItem(Items.sweet_berries, "sweet_berries");
 		this.itemModelMesher.register(Items.spawn_egg, new ItemMeshDefinition() {
 			public ModelResourceLocation getModelLocation(ItemStack var1) {
 				return new ModelResourceLocation("spawn_egg", "inventory");
@@ -1110,4 +1111,5 @@ public class RenderItem implements IResourceManagerReloadListener {
 	public void onResourceManagerReload(IResourceManager var1) {
 		this.itemModelMesher.rebuildCache();
 	}
+
 }
