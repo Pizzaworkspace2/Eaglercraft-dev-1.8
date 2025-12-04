@@ -1519,6 +1519,7 @@ tile.prismarine.rough.name=Prismarine
 tile.prismarine.bricks.name=Prismarine Bricks
 tile.prismarine.dark.name=Dark Prismarine
 tile.seaLantern.name=Sea Lantern
+tile.loom.name=Loom
 
 item.nameTag.name=Name Tag
 item.leash.name=Lead
@@ -3337,3 +3338,4 @@ item.banner.straight_cross.orange=Orange Cross
 item.banner.straight_cross.white=White Cross
 
 item.sweet_berries.name=Sweet Berries
+
