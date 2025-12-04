@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "blocks/loom_front",
+        "down": "blocks/loom_bottom",
+        "up": "blocks/loom_top",
+        "north": "blocks/loom_front",
+        "east": "blocks/loom_side",
+        "south": "blocks/loom_side",
+        "west": "blocks/loom_front"
+    }
+}
