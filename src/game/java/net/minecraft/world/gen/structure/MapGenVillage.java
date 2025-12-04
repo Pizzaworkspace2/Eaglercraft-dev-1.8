@@ -35,7 +35,7 @@ public class MapGenVillage extends MapGenStructure {
 	 * A list of all the biomes villages can spawn in.
 	 */
 	public static final List<BiomeGenBase> villageSpawnBiomes = Arrays
-			.asList(new BiomeGenBase[] { BiomeGenBase.plains, BiomeGenBase.desert, BiomeGenBase.savanna, BiomeGenBase.icePlains });
+			.asList(new BiomeGenBase[] { BiomeGenBase.plains, BiomeGenBase.desert, BiomeGenBase.savanna, BiomeGenBase.icePlains, BiomeGenBase.taiga, });
 	private int terrainType;
 	private int field_82665_g;
 	private int field_82666_h;
@@ -153,3 +153,4 @@ public class MapGenVillage extends MapGenStructure {
 	}
 
 }
+
