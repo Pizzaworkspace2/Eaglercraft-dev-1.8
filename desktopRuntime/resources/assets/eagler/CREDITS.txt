@@ -33,6 +33,27 @@
   - Created the Gradle plugin
   - Proponent of Kotlin DSL
 
+ catfoolyou and otterdev:
+
+  - Worked with Peyton on 1.12.2
+  - Ported 1.6.4
+
+ PeytonPlayz:
+
+  - Ported 1.12.2, Beta 1.7 and 1.2.5.
+
+ Pizzaworkspace2:
+
+- Works on modding and porting newer versions.
+- Working on a launcher.
+
+ Ravetek:
+
+- Published new textures and assets for 1.14
+- Made knockoffs of 1.8 including 1.14 and 1.21.
+
+ AR-Dev-1
+ -Ported even more assets.
 
 
  Code used within EaglercraftX
@@ -977,3 +998,4 @@
  * CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  
  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
