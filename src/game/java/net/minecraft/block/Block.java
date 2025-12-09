@@ -1549,6 +1549,9 @@ public class Block {
 		registerBlock(198, (String) "loom",
 				(new BlockLoom(0)).setHardness(2.5F).setStepSound(soundTypeWood).setUnlocalizedName("loom"));
 		blockRegistry.validateKey();
+		registerBlock(199, (String) "barrel",
+				(new BlockBarrel(0)).setHardness(2.5F).setStepSound(soundTypeWood).setUnlocalizedName("barrel"));
+		blockRegistry.validateKey();
 
 		for (Block block13 : blockRegistry) {
 			if (block13.blockMaterial == Material.air) {
@@ -1704,4 +1707,5 @@ public class Block {
 	}
 
 }
+
 
