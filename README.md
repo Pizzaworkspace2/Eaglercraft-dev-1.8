@@ -13,9 +13,18 @@ Credits:
 - Published source code for 1.21 minecraft. Credit to him for lots of the assets and models.
 
 **Pizzaworkspace2**
-- Added blocks and items and compiled the code.
+- Adds blocks and items.
+- Updates textures and compiles the code.
+
+**RaveTek**
+-Now banned
+-Recovery of some of his repostiories gives us lots of new textures and assets for the game.
+
+**AR-DEV-1**
+-Has lots of 1.14.4 files uploaded in a deleted repository. (Recovered)
 
 **IN DEVOLOPMENT!!!!**
+
 
 
 
