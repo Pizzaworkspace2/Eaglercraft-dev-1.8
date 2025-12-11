@@ -17,13 +17,14 @@ Credits:
 - Updates textures and compiles the code.
 
 **RaveTek**
--Now banned
--Recovery of some of his repostiories gives us lots of new textures and assets for the game.
+- Now banned
+- Recovery of some of his repostiories gives us lots of new textures and assets for the game.
 
 **AR-DEV-1**
--Has lots of 1.14.4 files uploaded in a deleted repository. (Recovered)
+- Has lots of 1.14.4 files uploaded in a deleted repository. (Recovered)
 
 **IN DEVOLOPMENT!!!!**
+
 
 
 
