@@ -12,7 +12,7 @@ public class PandaModel extends ModelBase {
     public ModelRenderer rightFrontLeg;
     public ModelRenderer leftFrontLeg;
 
-    public PandaModel() {
+    public ModelPanda() {
         this.textureWidth = 64;
         this.textureHeight = 64;
 
