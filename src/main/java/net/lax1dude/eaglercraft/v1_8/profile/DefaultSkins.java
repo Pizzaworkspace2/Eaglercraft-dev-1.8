@@ -45,6 +45,7 @@ public enum DefaultSkins {
 	PIG(22, "Pig", new ResourceLocation("eagler:skins/23.pig.png"), SkinModel.STEVE),
 	MOOSHROOM(23, "Mooshroom", new ResourceLocation("eagler:skins/24.mooshroom.png"), SkinModel.STEVE),
 	FREDDY(24, "Freddy", new ResourceLocation("eagler:skins/25.freddy.png"), SkinModel.STEVE),
+	BEAR(24, "Bear", new ResourceLocation("eagler:skins/26.bear.png"), SkinModel.STEVE),
 	LONG_ARMS(25, "Long Arms", new ResourceLocation("eagler:mesh/longarms.fallback.png"), SkinModel.LONG_ARMS),
 	WEIRD_CLIMBER_DUDE(26, "Weird Climber Dude", new ResourceLocation("eagler:mesh/weirdclimber.fallback.png"), SkinModel.WEIRD_CLIMBER_DUDE),
 	LAXATIVE_DUDE(27, "Laxative Dude", new ResourceLocation("eagler:mesh/laxativedude.fallback.png"), SkinModel.LAXATIVE_DUDE),
@@ -86,3 +87,4 @@ public enum DefaultSkins {
 
 
 }
+
